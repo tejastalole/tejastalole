@@ -12,7 +12,7 @@
 
 🎯 **Mission:** Turning coffee ☕ into scalable web apps!  
 💼 **Role:** Full Stack Web Developer  
-🧠 **Stack:** Python • Django • Flask • HTML • CSS • JavaScript • React • MongoDB • SQL  
+🧠 **Stack:** Python • Django • Flask • HTML • CSS • JavaScript • ERPNext • MongoDB • SQL  
 🔭 **Exploring:** Next.js • REST APIs • OpenAI tools  
 📫 **Reach me at:** tejastalole7.@gmail.com  
 🌐 **Portfolio:** [[beacons.ai/tejastalole](https://beacons.ai/tejastalole)]
