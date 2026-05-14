@@ -15,7 +15,7 @@
 🧠 **Stack:** Python • Django • Flask • HTML • CSS • JavaScript • ERPNext • MongoDB • SQL  
 🔭 **Exploring:** Next.js • REST APIs • OpenAI tools  
 📫 **Reach me at:** tejastalole7.@gmail.com  
-🌐 **Portfolio:** [[beacons.ai/tejastalole](https://beacons.ai/tejastalole)]
+🌐 **Linkedin:** [https://www.linkedin.com/in/tejas-talole/]
 
 </div>
 
