@@ -11,8 +11,8 @@
 <div align="center">
 
 🎯 **Mission:** Turning coffee ☕ into scalable web apps!  
-💼 **Role:** Full Stack Web Developer  
-🧠 **Stack:** Python • Django • Flask • HTML • CSS • JavaScript • ERPNext • MongoDB • SQL  
+💼 **Role:** Full Stack Web Developer & ERPNext Developer
+🧠 **Stack:** Python • Django • Flask • HTML • CSS • JavaScript • ERPNext • Frappe • MongoDB • SQL  
 🔭 **Exploring:** Next.js • REST APIs • OpenAI tools  
 📫 **Reach me at:** tejastalole7.@gmail.com  
 🌐 **Linkedin:** https://www.linkedin.com/in/tejas-talole/
