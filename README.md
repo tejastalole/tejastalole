@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🎯 **Mission:** Turning coffee into scalable web apps! & Providing Optimize Solution For Bussiness
+🎯 **Mission:** Turning coffee into scalable web apps! & Providing Optimize Solution For Bussiness <br>
 💼 **Role:** Full Stack Web Developer & ERPNext Developer
 🧠 **Stack:** Python • Django • Flask • HTML • CSS • JavaScript • ERPNext • Frappe • MongoDB • SQL  
 🔭 **Exploring:** Next.js • REST APIs • OpenAI tools  
